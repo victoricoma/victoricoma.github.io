@@ -1,0 +1,121 @@
+{
+  "configVersion": 1,
+  "timestamp": 1662474097705,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.10be8a80a147c4e3.js",
+        "/manifest.webmanifest",
+        "/polyfills.c53c5acd443e80f7.js",
+        "/runtime.feb9ffc2545bab4d.js",
+        "/styles.b48d19e274c7d1b4.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/img/1.png",
+        "/assets/img/3.png",
+        "/assets/img/5.png",
+        "/assets/img/ext1.png",
+        "/assets/img/ext2.png",
+        "/assets/img/ext3.png",
+        "/assets/img/ext4.png",
+        "/assets/img/icons8-facebook-novo-24.png",
+        "/assets/img/icons8-instagram-24.png",
+        "/assets/img/icons8-linkedin-24.png",
+        "/assets/img/icons8-twitter-24.png",
+        "/assets/img/quad1.png",
+        "/assets/img/quad2.png",
+        "/assets/img/quad3.png",
+        "/assets/img/quad4.png",
+        "/assets/img/txt1.png",
+        "/assets/img/txt2.png",
+        "/assets/img/txt3.png",
+        "/assets/img/txt4.png",
+        "/assets/img/txt5.jpeg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/icon-128x128.png": "e62b3b49ed489258850c7521a9f359bbb554e522",
+    "/assets/icons/icon-144x144.png": "1ded0ad0c3ebc52df60940ddeafc1c8630dd6b64",
+    "/assets/icons/icon-152x152.png": "0404763a53f9a949ae25411b685e094284d43424",
+    "/assets/icons/icon-192x192.png": "5126eb501b0f1bf98347838f20e8ab26b087960d",
+    "/assets/icons/icon-384x384.png": "bd1399f446cf26efe08fc2a47bddbdd6d23acd87",
+    "/assets/icons/icon-512x512.png": "d8479dae0162f8ebb0283ff8546bcf8c7f278ba1",
+    "/assets/icons/icon-72x72.png": "13b2a1e7d7a09fcb48e49114a188dbdf69322fd4",
+    "/assets/icons/icon-96x96.png": "803b1ba6f244d334c4f158f910b1bca95051bd01",
+    "/assets/img/1.png": "3f7e0375c493b0ac79be728db3786ec0895fe8c0",
+    "/assets/img/3.png": "9e0b23bb47e4ff0781d5f3f79c0e09784b1e7348",
+    "/assets/img/5.png": "f307e3457b394c832cdbb2f17dc1d48a14646187",
+    "/assets/img/ext1.png": "efeb3ad1010a3f8da1082a9bbe9f78fe2d3fb6a3",
+    "/assets/img/ext2.png": "4e654fecda98413a0407a1ec8d4d8526ae505f54",
+    "/assets/img/ext3.png": "0b63b94d70305113ec7da151422c9488baa2dd83",
+    "/assets/img/ext4.png": "6c34234ceab4c5cc56804e6f98b527928aca3790",
+    "/assets/img/icons8-facebook-novo-24.png": "a891b0aae728cf26edd7bfd08e3e457767d53ec0",
+    "/assets/img/icons8-instagram-24.png": "fdd227d1b535eb8b5dc71098fe1b8894173ab507",
+    "/assets/img/icons8-linkedin-24.png": "f059c0372bc82957aa8ffd0818ab66bafc13e813",
+    "/assets/img/icons8-twitter-24.png": "7e711dc119289fc76eec0a917a8c7957a7fc23ba",
+    "/assets/img/quad1.png": "6cda7687d048a6a32a56507a45dff1894a98b0ba",
+    "/assets/img/quad2.png": "29731afe38015e86067406aaba1f87317fa999c1",
+    "/assets/img/quad3.png": "a493d27347314d2f5b4442159351cdc3c57fe09e",
+    "/assets/img/quad4.png": "f47fecb070493be5b16e08204ea48af0f9c3d121",
+    "/assets/img/txt1.png": "3d62dbed8d46e374d16ecfdac2ea1ecc32ea3a3c",
+    "/assets/img/txt2.png": "1496186053b37f86c79bc9064066f39b5279b030",
+    "/assets/img/txt3.png": "514717bd6aad3f4ec4d09bfd43dcd53c81894732",
+    "/assets/img/txt4.png": "152f6ca113952083375bc64c6ad7b59c1edf2e11",
+    "/assets/img/txt5.jpeg": "23d91ec25d2391bfbb8fe17ec3cf6380bd8ccf5c",
+    "/favicon.ico": "45af89e0378c2fa93d369071783f804e6f5dbe83",
+    "/index.html": "8dca7ee8ee733566d23a9bea2129c84f086c8191",
+    "/main.10be8a80a147c4e3.js": "efad0e56f75d10ef695720e039ee651223c94672",
+    "/manifest.webmanifest": "3c6f2b361653a6bb91e6d7e9ba82ec109435d4c9",
+    "/polyfills.c53c5acd443e80f7.js": "8fcc1ea6ca9e969a24291df28faea9333668c681",
+    "/runtime.feb9ffc2545bab4d.js": "8eb02a61024195171f128c0faef019cef2234730",
+    "/styles.b48d19e274c7d1b4.css": "64a497cb68d609ec745675c6c5074dbc53763376"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
